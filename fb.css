@@ -1,0 +1,158 @@
+.header{
+    background: #3b5998;
+    width: 100%;
+    height: 100px;
+}
+.body{
+    margin: 0;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;  
+
+}
+.logo{
+    width: 50%;
+    padding-top: 40px;
+    float: left;
+}
+.login{
+    width: 50%;
+    float: left; 
+}
+.logo-text{
+    color: #FFF;
+    font-size: 47px;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    margin-left: 270px;
+}
+.login-label{
+    color: #FFF;
+    font-size: 18px;
+}
+.login-controls{
+    margin-left: 255px;
+}
+.login{
+    padding-top: 10px;
+}
+.forgotten{
+    color: #FFF;
+    font-size: 15px;
+    text-decoration: none;
+    color: #9cb4d8;
+}
+.sub-btn{
+    background: #4267b2;
+    color: #FFF;
+    height: 30px;
+    border-color: #29487d;
+    cursor: pointer;
+    padding-left: 10px;
+    font-size: 20px;
+}
+.txt{
+    height: 25px;
+}
+.xt{
+    height: 25px;
+}
+.sub-btn:hover{
+    background: darkblue;
+}
+.left-section{
+    width: 35%;
+    float: left;
+    padding-left: 270px;
+    padding-top: 25px;
+}
+.right-section{
+    width: 35%;
+    float: left;
+    padding-left: 275px;
+    padding-top: 5px;
+}
+.main-body{
+    background: linear-gradient(white, #D3D8E8);
+    width:100%;
+    height: 715px;
+}
+.para{
+    font-weight: bold;
+    font-size: 32px;
+}
+.ttx{
+    height: 40px;
+    width: 250px;
+    border-radius: 4px;
+    margin: 5px;
+    font-size: 22px;
+    border-color: #FFF;
+
+}
+.ttxt{
+    height: 40px;
+    width: 522px;
+    border-radius: 4px;
+    font-size: 22px;
+    border-color: #FFF;
+    margin: 5px;
+}
+#hh2{
+    font-size: 25px;
+    font-weight: bold;
+}
+#hh1{
+    font-size: 35px;
+}
+.tx{
+    height: 40px;
+    width: 522px;
+    border-radius: 4px;
+    font-size: 22px;
+    border-color: #FFF;
+    margin: 5px;
+}
+#fade{
+    margin-left: 5px;
+    font-size: 30px;
+}
+.radio{
+    margin:7px;
+    font-size: 25px;
+}
+#signup-btn{
+    font-size: 30px;
+    background: green;
+    color: #FFF;
+    align-content: center;
+    width: 250px;
+    border-radius: 5px;
+    height: 50px;
+    cursor: pointer;
+}
+.create{
+    text-decoration: none;
+    font-size: 27px;
+    font-weight: bold;
+    color: #29487d;
+}
+#line10{
+    width: 100%;
+}
+#line11{
+    width: 600%;
+}
+.info-contaner{
+    position:absolute;
+    left:150px;
+    overflow: hidden;
+}
+#lang{
+    font-size:13px;
+    word-spacing: 40px;
+    font-size: 15px;
+}
+#infooo{
+    word-spacing: 50px;
+    text-decoration: none;
+}
